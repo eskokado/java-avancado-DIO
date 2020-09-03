@@ -14,16 +14,4 @@ public class FatorialTailCall {
         return fatorialComTailCall(valor-1,numero*valor);
     }
 
-    // 5
-    // 5 * 4 * 3 * 2 * 1
-    // 120
-//    Tail Call
-//    5 * 4 = 20
-//    20 * 3
-//    60 * 2
-//    120 * 1
-//    120
-
-
-
 }
