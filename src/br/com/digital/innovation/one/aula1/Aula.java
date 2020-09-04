@@ -5,7 +5,7 @@ public class Aula {
         Funcao1 funcao1 = valor -> {
             return valor;
         };
-        System.out.println(funcao1.gerar("Joao"));
+        System.out.println(funcao1.gerar("Wagner"));
     }
 }
 
